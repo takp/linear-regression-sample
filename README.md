@@ -34,6 +34,11 @@ Phi is the matrix as following.
 
 ![Phi](https://raw.githubusercontent.com/takp/linear-regression-sample/master/images/Phi.jpg)
 
+### Graph
+
+![Graph](https://raw.githubusercontent.com/takp/linear-regression-sample/master/images/graph.png)
+
+
 ### Reference
 
 (Japanese) http://gihyo.jp/dev/serial/01/machine-learning/0011?page=1
