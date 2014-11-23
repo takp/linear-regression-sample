@@ -39,6 +39,14 @@ Phi is the matrix as following.
 ![Graph](https://raw.githubusercontent.com/takp/linear-regression-sample/master/images/graph.png)
 
 
+### Numpy
+
+- numpy.linalg.solve : Sove a linear matrix equation. 
+  ref. http://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.solve.html
+- numpy.dot : Scalar product, Inner product
+  ref. http://docs.scipy.org/doc/numpy/reference/generated/numpy.dot.html
+
+
 ### Reference
 
 (Japanese) http://gihyo.jp/dev/serial/01/machine-learning/0011?page=1
